@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 16 11:01:50 2019
-
-@author: abhis
-"""
-
 num = int(input("Please Enter any number: "))
 sum = 0
 temp = num
